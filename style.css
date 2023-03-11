@@ -20,14 +20,14 @@
 .navbar .logo {
     display: inline-block;
     margin-left: 100px;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 
 .navbar .logo a {
     text-decoration: none;
     font-size: 50px;
     font-family: sans-serif;
-    color: #f5f5f5;
+    color: white;
 }
 
 .navbar ul {
@@ -68,8 +68,8 @@
 
 
 .center h1 {
-    color: green;
-    font-size: 70px;
+    color: white;
+    font-size: 60px;
     font-weight: bold;
     width: 900px;
     text-align: center;
@@ -77,10 +77,18 @@
 
 .center h2 {
     color: #f3f3f3;
-    font-size: 70px;
+    font-size: 50px;
     font-weight: bold;
     width: 900px;
-    margin-top: 10px;
+    margin-top: 1px;
+    text-align: center;
+}
+.center h3{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    width: 900px;
+    margin-top: 1px;
     text-align: center;
 }
 
